@@ -19,8 +19,8 @@ lalalalalalalalalalalalalalalala
   <tr>
     <th>Platz</th>
     <th>Österreich</th>
-    <th>Deutschland</th>
     <th>England</th>
+    <th>Deutschland</th>
   </tr>
   <tr>
     <td>1.</td>
