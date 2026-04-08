@@ -8,4 +8,10 @@ lalalalalalalalalalalalalalalala
     <td> <a href="https://www.ooekultur.at/location-detail/schlossmuseum-linz">Schlossmuseum</a></td>
     <td> <a href="https://www.wikipedia.orghttps://www.askoe-linz-steg.at/">Linz Steg</a></td>
   </tr>
-
+<table>
+  <tr>
+    <td>Mathe</td>
+    <td>Chemie</td>
+    <td>Deutsch</td>
+  </tr>
+</table>
