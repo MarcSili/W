@@ -2,5 +2,10 @@
 Mein Hobby
  <a href="https://www.wikipedia.org">Wikipedia</a>
 lalalalalalalalalalalalalalalala
-<img src="img/bild1.jpg" width="400">
-<a href="https://www.wikipedia.org">Wikipedia</a>
+<table>
+  <tr>
+    <td><a href="(https://www.linztourismus.at/freizeit/linz-entdecken/sehenswertes/top10/erlebniswelt-poestlingberg)">Pöstlingberg</a></td>
+    <td> <a href="(https://www.ooekultur.at/location-detail/schlossmuseum-linz)">Schlossmuseum</a></td>
+    <td> <a href="[https://www.wikipedia.org](https://www.askoe-linz-steg.at/)">Linz Steg</a></td>
+  </tr>
+
