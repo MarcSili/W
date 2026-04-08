@@ -4,8 +4,8 @@ Mein Hobby
 lalalalalalalalalalalalalalalala
 <table>
   <tr>
-    <td><a href="(https://www.linztourismus.at/freizeit/linz-entdecken/sehenswertes/top10/erlebniswelt-poestlingberg)">Pöstlingberg</a></td>
-    <td> <a href="(https://www.ooekultur.at/location-detail/schlossmuseum-linz)">Schlossmuseum</a></td>
-    <td> <a href="[https://www.wikipedia.org](https://www.askoe-linz-steg.at/)">Linz Steg</a></td>
+    <td><a href="https://www.linztourismus.at/freizeit/linz-entdecken/sehenswertes/top10/erlebniswelt-poestlingberg">Pöstlingberg</a></td>
+    <td> <a href="https://www.ooekultur.at/location-detail/schlossmuseum-linz">Schlossmuseum</a></td>
+    <td> <a href="https://www.wikipedia.orghttps://www.askoe-linz-steg.at/">Linz Steg</a></td>
   </tr>
 
