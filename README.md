@@ -17,9 +17,9 @@ lalalalalalalalalalalalalalalala
 </table>
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Österreich</th>
+    <th>Deutschland</th>
+    <th>England</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
