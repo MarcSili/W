@@ -24,20 +24,20 @@ lalalalalalalalalalalalalalalala
   </tr>
   <tr>
     <td>1.</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-     <td>Germany</td>
+    <td>Sturm Graz</td>
+    <td>Arsenal</td>
+     <td>Bayern</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-   <td>Mexico</td>
+    <td>RB Salzburg</td>
+    <td>Man City</td>
+   <td>Dortmund</td>
   </tr>
  <tr>
     <td>3.</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  <td>Mexico</td>
+    <td>Rapid Wien</td>
+    <td>Man United</td>
+  <td>RB Leipzig</td>
   </tr>
 </table>
