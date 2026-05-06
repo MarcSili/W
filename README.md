@@ -14,6 +14,11 @@ lalalalalalalalalalalalalalalala
     <td>Chemie</td>
     <td>Deutsch</td>
   </tr>
+ <tr>
+  <td>7:50</td>
+  <td>8:45</td>
+  <td>9:40</td>
+ </tr>
 </table>
 <table>
   <tr>
